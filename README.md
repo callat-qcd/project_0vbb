@@ -10,6 +10,9 @@
 # project_0νbb
 neutrinoless double beta decay
 
+[![DOI](https://zenodo.org/badge/130005007.svg)](https://zenodo.org/badge/latestdoi/130005007)
+
+
 Chiral-continuum extrapolation for "Neutrinoless Double Beta Decay from QCD" with MDWF on HISQ gauge configurations [cite paper]. Details on the mixed action setup may be found in "Möbius domain-wall fermions on gradient-flowed dynamical HISQ ensembles" [[arXiv](https://arxiv.org/abs/1701.07559),[PRD](https://doi.org/10.1103/PhysRevD.96.054513)]. Details of the MILC HISQ ensembles may be found in "Lattice QCD ensembles with four flavors of highly improved staggered quarks" [[arXiv](https://arxiv.org/abs/1212.4768), [PRD](https://doi.org/10.1103/PhysRevD.87.054505)] and "Gradient flow and scale setting on MILC HISQ ensembles" [[arXiv](https://arxiv.org/abs/1503.02769), [PRD](https://doi.org/10.1103/PhysRevD.93.094510)].
 
 This repository includes:
