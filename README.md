@@ -48,3 +48,28 @@ source deactivate
 jupyter notebook 0vbb_workbook.ipynb
 ```
 
+## 0vbb_workbook.ipynb Tested with the following Python Setup
+```
+python version: 3.6.1 |Anaconda 4.4.0 (x86_64)| (default, May 11 2017, 13:04:09) 
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.57)]
+pandas version: 0.20.1
+numpy  version: 1.14.2
+scipy  version: 1.0.1
+lsqfit version: 9.3
+gvar   version: 8.3.6
+mpl    version: 2.0.2
+```
+
+and
+
+```
+python version: 2.7.14 (default, Jan 6 2018, 12:15:00)
+[GCC 4.2.1 Compatible Apple LLVM 9.0.0 (clang-900.0.39.2)]
+pandas version: 0.20.3
+numpy  version: 1.14.2
+scipy  version: 1.0.1
+mpl    version: 2.0.2
+lsqfit version: 9.3
+gvar   version: 8.3.6
+mpl    version: 2.0.2
+```
