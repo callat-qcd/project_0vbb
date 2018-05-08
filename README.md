@@ -17,11 +17,12 @@ Chiral-continuum extrapolation for "Neutrinoless Double Beta Decay from QCD" wit
 
 This repository includes:
 * `project_0vbb.ipynb`: the Jupyter notebook used to perform the chiral-continuum extrapolation.
-* `data` folder which includes
+* `data` folder includes
    * `n0bb_v3.csv`: matrix elements for the basis of 4-quark operators, the pion decay constant F<sub>π</sub>, and the expansion parameter ε<sub>π</sub>=m<sub>π</sub>/4πF<sub>π</sub>.
    * `gV.csv`: the vector charge of the nucleon.
    * `phi_ju.csv`: the mass of the DW + HISQ valence pion.
    * `hisq_params.csv`: values of a/w0, the taste-identity pion mass splitting, r<sub>1</sub>/a, and α<sub>s</sub> from MILC.
+* `extrap_check` folder includes an independent cross-check of `project_0vbb.ipynb` written in MATLAB.
 
 # Setup for Python environment
 ## Download Anaconda and install
