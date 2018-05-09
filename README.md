@@ -73,3 +73,18 @@ lsqfit version: 9.3
 gvar   version: 8.3.6
 mpl    version: 2.0.2
 ```
+
+<figure style="float:right">
+    <img
+    src="./data/incite_logo.png"
+    width="200"
+    alt="incite"
+    align="right"
+    /img>
+    <img
+    src="./data/olcf_logo.png"
+    width="320"
+    alt="incite"
+    align="right"
+    /img>
+</figure>
