@@ -78,31 +78,31 @@ mpl    version: 2.0.2
 <figure style="float:right">
     <img
     src="./data/doe_vertical_highres.jpg"
-    width="350"
+    width="20%"
     alt="doe_oos"
     align="right"
     /img>
     <img
     src="./data/scidac_logo.png"
-    width="350"
+    width="20%"
     alt="scidac"
     align="right"
     /img>
     <img
     src="./data/incite_logo.png"
-    width="200"
+    width="20%"
     alt="incite"
     align="right"
     /img>
     <img
     src="./data/olcf_logo.png"
-    width="320"
+    width="20%"
     alt="incite"
     align="right"
     /img>
     <img
     src="./data/llnl_logo.png"
-    width="660"
+    width="20%"
     alt="llnl"
     align="right"
     /img>
