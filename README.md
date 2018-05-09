@@ -81,4 +81,4 @@ mpl    version: 2.0.2
 
 | | |
 |:---:|:---:|
-| [<img src='./data/scidac_logo.png' width='415' />](http://www.scidac.gov/) | [<img src='./data/doe_oos_highres.jpg' width='415'/>](https://science.energy.gov) |
+| [<img src='./data/scidac_logo.png' width='416.5' />](http://www.scidac.gov/) | [<img src='./data/doe_oos_highres.jpg' width='416.5'/>](https://science.energy.gov) |
