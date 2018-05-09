@@ -82,10 +82,4 @@ mpl    version: 2.0.2
     alt="incite"
     align="right"
     /img>
-    <img
-    src="./data/olcf_logo.png"
-    width="320"
-    alt="incite"
-    align="right"
-    /img>
 </figure>
