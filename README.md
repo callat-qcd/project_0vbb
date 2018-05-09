@@ -77,8 +77,8 @@ mpl    version: 2.0.2
 
 | | | |
 |:---:|:---:|:---:|
-| [<img src='./data/incite_logo.png' width='180'/>](http://www.doeleadershipcomputing.org/)  | [<img src='./data/olcf_logo.png' width='300'/>](https://www.olcf.ornl.gov/) | [<img src='./data/llnl_logo_v2.png' width='300' />](https://hpc.llnl.gov/) |
+| [<img src='./data/incite_logo.png' width='275'/>](http://www.doeleadershipcomputing.org/)  | [<img src='./data/olcf_logo.png' width='275'/>](https://www.olcf.ornl.gov/) | [<img src='./data/llnl_logo_v2.png' width='275' />](https://hpc.llnl.gov/) |
 
 | | |
 |:---:|:---:|
-| [<img src='./data/scidac_logo.png' width='400' />](http://www.scidac.gov/) | [<img src='./data/doe_oos_highres.jpg' width='400'/>](https://science.energy.gov) |
+| [<img src='./data/scidac_logo.png' width='410' />](http://www.scidac.gov/) | [<img src='./data/doe_oos_highres.jpg' width='410'/>](https://science.energy.gov) |
