@@ -75,7 +75,10 @@ gvar   version: 8.3.6
 mpl    version: 2.0.2
 ```
 
+| | | |
+|:---:|:---:|:---:|
+| [<img src='./data/incite_logo.png' width='180'/>](http://www.doeleadershipcomputing.org/)  | [<img src='./data/olcf_logo.png' width='300'/>](https://www.olcf.ornl.gov/) | [<img src='./data/llnl_logo_v2.png' width='300' />](https://hpc.llnl.gov/) |
+
 | | |
 |:---:|:---:|
-| [<img src='./data/incite_logo.png' width='200'/>](http://www.doeleadershipcomputing.org/)  | [<img src='./data/olcf_logo.png' width='320'/>](https://www.olcf.ornl.gov/) |
-| [<img src='./data/doe_vertical_highres.jpg' width='200'/>](https://science.energy.gov) [<img src='./data/scidac_logo.png' width='200' />](http://www.scidac.gov/) | [<img src='./data/llnl_logo.png' width='300' />](https://hpc.llnl.gov/) |
+| [<img src='./data/scidac_logo.png' width='400' />](http://www.scidac.gov/) | [<img src='./data/doe_oos_highres.jpg' width='400'/>](https://science.energy.gov) |
