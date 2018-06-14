@@ -75,6 +75,17 @@ gvar   version: 8.3.6
 mpl    version: 2.0.2
 ```
 
+*** Copyright Notice ***
+project_0vbb v1.0-beta Copyright (c) 2018, The Regents of the University of California, through Lawrence Berkeley National Laboratory (subject to receipt of any required approvals from the U.S. Dept. of Energy).  All rights reserved.
+ 
+If you have questions about your rights to use or distribute this software, please contact Berkeley Lab's Intellectual Property Office at  IPO@lbl.gov.
+ 
+NOTICE.  This Software was developed under funding from the U.S. Department of Energy and the U.S. Government consequently retains certain rights. As such, the U.S. Government has been granted for itself and others acting on its behalf a paid-up, nonexclusive, irrevocable, worldwide license in the Software to reproduce, distribute copies to the public, prepare derivative works, and perform publicly and display publicly, and to permit other to do so. 
+ 
+****************************
+
+
+
 | | | |
 |:---:|:---:|:---:|
 | [<img src='./data/incite_logo.png' width='275'/>](http://www.doeleadershipcomputing.org/)  | [<img src='./data/olcf_logo.png' width='275'/>](https://www.olcf.ornl.gov/) | [<img src='./data/llnl_logo.png' width='275' />](https://hpc.llnl.gov/) |
